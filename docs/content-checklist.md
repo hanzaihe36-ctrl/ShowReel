@@ -40,4 +40,5 @@
 - [ ] 社交链接（可选，后续可补充）
 
 ## 部署相关
-- [ ] GitHub 账号（部署时需要）：___________
+- [x] GitHub 账号：hanzaihe36-ctrl
+- [x] 线上地址：https://hanzaihe36-ctrl.github.io/ShowReel/
